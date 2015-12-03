@@ -18,7 +18,7 @@ window.msgpack = this.msgpack;
     var $ = window.jQuery;
     var msgpack = window.msgpack;
     var options = {
-        enableMultiCells: false,
+        enableMultiCells: true,
         enablePosition: true,
         enableAxes: true,
         enableCross: true
