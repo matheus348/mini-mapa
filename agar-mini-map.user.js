@@ -3,7 +3,7 @@
 // @namespace    http://github.com
 // @version      0.46
 // @description  This script will show a mini map and your location on agar.io
-// @author       dimotsai
+// @author       matheus
 // @license      MIT
 // @match        http://agar.io/*
 // @require      http://cdn.jsdelivr.net/msgpack/1.05/msgpack.js
